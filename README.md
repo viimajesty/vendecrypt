@@ -1,4 +1,9 @@
 # vendecrypt
+
+If you are running a new version of Windows 10, you will recieve an alert saying that the app might harm your PC. 
+The application will not harm your computer, as it is only a batch file. Windows Prevents Unverified Apps from running, and my program is unverified. 
+Click on More Info, then click on Run Anyway. 
+
 This program lets you encrypt text, with a PIN. After entering a PIN of your choice, enter the text you want to encrypt, and you will get an encryption key on the screen. 
 To decrypt the text, you will need the correct PIN and the encryption key. 
 
