@@ -12,8 +12,8 @@ Note: This program currently does not have support for uppercase characters and 
 Language is Windows Batch Script (.bat) 
 
 Supported on: 
-Microsoft Windows 10 
-Microsoft Windows 7 
+Microsoft Windows 10, 
+Microsoft Windows 7,
 Other versions not tested 
 
 
