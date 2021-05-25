@@ -14,7 +14,9 @@ This program does not harm your computer in any way.
 
 # Tested versions
 
-Windows 7, Windows 10 
+Windows 7, Windows 10, Windows Server 2019
+
+Should work with WinSer16, WinSer12, WinXP, Win Vista and Win 8
 
 # Dev
 
